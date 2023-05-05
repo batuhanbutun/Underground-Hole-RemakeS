@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - iron
+  - plastic
+  - wood
+  - constarea
+  - propconverter
+  - highground
+  - wall
+  - ground
+  - charcanvas
   layers:
   - Default
   - TransparentFX
@@ -15,15 +24,15 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - props
+  - ground
+  - hole
+  - fallenprops
+  - character
+  - collectable
+  - constructions
+  - propconverter
+  - magnet
   - 
   - 
   - 
